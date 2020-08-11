@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on a [Mediability][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate with my team members
+- 🥅 2020 Goals: Contribute more to my company and learn new things
+- ⚡ Fun fact: I love to sing and play guitar
 
 ### Connect with me:
 
