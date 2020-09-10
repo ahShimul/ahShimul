@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Customizing Cognito verification emails with HTML using AWS Lambda](https://medium.com/craftsmenltd/customizing-aws-cognito-verification-emails-with-html-using-aws-lambda-379b584d2112)
 
 - [Lambda@Edge, a different way to configure SPA client side routing (like ReactJS, Angular JS or Vue JS) with S3 and CloudFront](https://medium.com/craftsmenltd/lambda-edge-a-different-way-to-configure-spa-client-side-routing-like-reactjs-angular-js-or-vue-d2425924b7be)
 
