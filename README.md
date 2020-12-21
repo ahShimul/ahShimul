@@ -39,16 +39,18 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Customizing Cognito verification emails with HTML using AWS Lambda](https://medium.com/craftsmenltd/customizing-aws-cognito-verification-emails-with-html-using-aws-lambda-379b584d2112)
+[![Hasnat's Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=hasnat_33856)](https://medium.com/@hasnat_33856)
 
-- [Lambda@Edge, a different way to configure SPA client side routing (like ReactJS, Angular JS or Vue JS) with S3 and CloudFront](https://medium.com/craftsmenltd/lambda-edge-a-different-way-to-configure-spa-client-side-routing-like-reactjs-angular-js-or-vue-d2425924b7be)
-
-- [Use of CRON lambdas in your serverless app](https://medium.com/@hasnat_33856/use-of-cron-lambdas-in-your-serverless-app-283b74a41a53)
 <!-- BLOG-POST-LIST:END -->
 
 ---
+### 📕 Hasnat's contribution
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ahShimul&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ahShimul&show_icons=true&hide_border=true&count_private=true" />
+### 📕 Top Language card
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahShimul&theme=radical&layout=compact" />
+
+
 
 [website]: https://publish.mediability.com
 [linkedin]: https://linkedin.com/in/a-hasnat-shimul
