@@ -44,14 +44,15 @@
 <br />
 <br />
 
-### 📕 Hasnat's contribution
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ahShimul&show_icons=true&hide_border=true&count_private=true&theme=radical" />
-<br />
+---
+![Hasnat's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=ahShimul&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
+
 <br />
 
-### 📕 Top Language card
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahShimul&theme=radical&layout=compact" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahShimul&theme=radical&layout=compact)](https://github.com/ahShimul/github-readme-stats)
 
+<br />
+---
 
 
 [website]: https://publish.mediability.com
