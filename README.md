@@ -45,7 +45,7 @@
 <br />
 
 ---
-![Hasnat's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=ahShimul&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
+![hasnat's github stats](https://github-readme-stats.vercel.app/api?username=ahShimul&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
 <br />
 
