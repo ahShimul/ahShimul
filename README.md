@@ -48,7 +48,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ahShimul&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ahShimul&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://publish.mediability.com
 [linkedin]: https://linkedin.com/in/a-hasnat-shimul
