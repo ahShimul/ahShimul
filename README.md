@@ -44,7 +44,7 @@
 ### 📕 Other Blog Posts
 - [Vite might be your next front end bundler](https://craftsmenltd.com/blog/2022/06/20/vite-might-be-your-next-front-end-bundler/)
 - [Migrating your Create React App project to Vite](https://craftsmenltd.com/blog/2022/06/23/migrating-your-create-react-app-project-to-vite)
-<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+<a href="https://www.google.com/" style="color: white; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
 <!-- BLOG-POST-LIST:END -->
 <br />
 <br />
