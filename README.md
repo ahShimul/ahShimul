@@ -40,7 +40,10 @@
 <!-- BLOG-POST-LIST:START -->
 [![Hasnat's Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=hasnat_33856)](https://medium.com/@hasnat_33856)
 
-[Vite might be your next front end bundler](https://craftsmenltd.com/blog/2022/06/20/vite-might-be-your-next-front-end-bundler/)
+
+### 📕 Other Blog Posts
+- [x][Vite might be your next front end bundler](https://craftsmenltd.com/blog/2022/06/20/vite-might-be-your-next-front-end-bundler/)
+- [x][Migrating your Create React App project to Vite](https://craftsmenltd.com/blog/2022/06/23/migrating-your-create-react-app-project-to-vite)
 
 <!-- BLOG-POST-LIST:END -->
 <br />
